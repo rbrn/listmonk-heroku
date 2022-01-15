@@ -3,7 +3,7 @@
 
 echo "Downloading listmonk"
 
-echo "Hello from the script
+echo "Hello from the script"
 
 BUILD_DIR=$1
 
