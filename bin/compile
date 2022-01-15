@@ -3,6 +3,8 @@
 
 echo "Downloading listmonk"
 
+echo "Hello from the script
+
 BUILD_DIR=$1
 
 # Get the URL of the latest Linux release.
